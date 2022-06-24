@@ -1,0 +1,4 @@
+***LINE: 2 near 'intger' missing `integer`
+***LINE: 9 near 'readm' `readm` was not declared, did you mean `read`?
+***LINE: 9 near 'm' missing `(`
+***LINE: 9 near 'm' variable `m` was not declared
